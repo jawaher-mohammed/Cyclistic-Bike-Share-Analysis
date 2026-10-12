@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Analysis 🚴‍♀️📊
+# Cyclistic Bike-Share Analysis 
 End-to-end data analysis portfolio project for the Google Data Analytics Professional Certificate.
 
 ---
